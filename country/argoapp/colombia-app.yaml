@@ -15,4 +15,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
     namespace: colombia-pro
-
+  syncPolicy:
+    automated: {}
