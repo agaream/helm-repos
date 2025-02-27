@@ -126,9 +126,10 @@ helm repo add myharbor https://harbor.local/library/ --insecure-skip-tls-verify
 > Este sería el comando, pero Harbor ya no incluye `Chartmuseum`,y parece que `helm repo add` no es compatible con registros `OCI`
 
 ## Git
-
+```
 git init
 git add *
 git commit -m "primer commit"
 git remote add origin https://github.com/agaream/helm-repos.git
 git push -u origin master
+```
