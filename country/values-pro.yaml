@@ -1,0 +1,7 @@
+weather-api:
+  environment: PRODUCCION
+  apphost: K8S
+
+weather-api-2:
+  environment: PRODUCCION
+  apphost: K8S-2

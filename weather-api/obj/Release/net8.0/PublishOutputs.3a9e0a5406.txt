@@ -1,0 +1,11 @@
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/weather-api
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/appsettings.Development.json
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/appsettings.json
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/weather-api.dll
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/weather-api.deps.json
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/weather-api.runtimeconfig.json
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/weather-api.pdb
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/T480LCK/LIBRARY/KUBERNETES/src/agm-helm-repos/weather-api/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

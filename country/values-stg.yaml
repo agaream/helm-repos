@@ -1,0 +1,7 @@
+weather-api:
+  environment: STAGE
+  apphost: K8S
+
+weather-api-2:
+  environment: STAGE
+  apphost: K8S-2

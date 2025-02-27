@@ -1,0 +1,18 @@
+environment: dev
+
+apphost: k8s
+
+label:
+  name: weather-api
+
+container:
+  name: weather-api
+  pullPolicy: Always
+  image: anxony/weather-api
+  tag: "1.0"
+  port: 8080
+replicas: 2
+
+service:
+  port: 8080
+  type: ClusterIP

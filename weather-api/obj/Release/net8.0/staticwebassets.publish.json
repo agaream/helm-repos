@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mio+RZvfpliqZdPmobdBbav0rjgae58D7EIppousBl8=",
+  "Source": "weather-api",
+  "BasePath": "_content/weather-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
