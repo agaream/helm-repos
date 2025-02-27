@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: mcolombia-pro
+  name: colombia-pro
   namespace: default
 spec:
   project: default
