@@ -1,12 +1,18 @@
-project: default
-source:
-  repoURL: https://github.com/agaream/helm-repos.git
-  path: country
-  targetRevision: HEAD
-  helm:
-    valueFiles:
-      - values-pro.yaml
-destination:
-  server: https://kubernetes.default.svc
-  namespace: colombia-pro
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: mcolombia-pro
+  namespace: default
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/agaream/helm-repos.git
+    path: country
+    targetRevision: HEAD
+    helm:
+      valueFiles:
+        - values-pro.yaml
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: colombia-pro
 
