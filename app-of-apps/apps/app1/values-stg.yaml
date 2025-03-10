@@ -1,0 +1,3 @@
+app1:
+  environment: STAGE
+  apphost: K8S

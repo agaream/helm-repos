@@ -1,0 +1,3 @@
+app2:
+  environment: PRODUCCION
+  apphost: K8S
