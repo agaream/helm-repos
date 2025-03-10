@@ -1,0 +1,16 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: parent-app1
+  namespace: default
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/agaream/helm-repos.git
+    path: app-of-apps/apps
+    targetRevision: HEAD    
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: dom1
+  syncPolicy:
+    automated: {}
