@@ -11,7 +11,7 @@ spec:
     targetRevision: HEAD
     helm:
       valueFiles:
-        - values-pro.yaml
+        - values-app2-pro.yaml
   destination:
     server: https://kubernetes.default.svc
     namespace: dom1

@@ -11,7 +11,7 @@ spec:
     targetRevision: HEAD
     helm:
       valueFiles:
-        - values-stg.yaml
+        - values-app1-stg.yaml
   destination:
     server: https://kubernetes.default.svc
     namespace: dom1
